@@ -56,3 +56,7 @@ The other lines are absolute paths to the result images and the number of featur
 ## License
 
 This project is licensed under ...
+
+## Acknowledgements
+
+This work was supported in part by the Inria@SiliconValley program, DHS Award HSHQDC-16-3-00083, NSF CISE Expeditions Award CCF-1139158, DOE Award SN10040 DE-SC0012463, and DARPA XData Award FA8750-12-2-0331, and gifts from Amazon Web Services, Google, IBM, SAP, The Thomas and Stacey Siebel Foundation, Apple Inc., Arimo, Blue Goji, Bosch, Cisco, Cray, Cloudera, Ericsson, Facebook, Fujitsu, HP, Huawei, Intel, Microsoft, Mitre, Pivotal, Samsung, Schlum\-berger, Splunk, State Farm and VMware.
