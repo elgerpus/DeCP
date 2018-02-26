@@ -51,7 +51,14 @@ The other lines are absolute paths to the result images and the number of featur
 
 ## Authors
 
-* [Gylfi Þór Guðmundsson](https://github.com/elgerpus)
+* [Gylfi Þór Guðmundsson](http://www.ru.is/starfsfolk/gylfig/)
+* [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/)
+* [Björn Þór Jónsson](https://www.ru.is/faculty/bjorn/)
+* [MICHAEL J. FRANKLIN](https://cs.uchicago.edu/directory/michael-franklin/)
+
+## Publications
+
+* [Towards Engineering a Web-Scale Multimedia Service: A Case Study Using Spark](https://hal.inria.fr/hal-01416089/document) published in the proceedings of the 8th ACM conference on Multimedia Systems (MMSys17)
 
 ## License
 
