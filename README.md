@@ -5,12 +5,12 @@ A high-throughput CBIR system for very large image collections
 ## Features
 * Deep hierarchical index construction, built top-down
 * Approximate k-NN search 
-  * Default to a single cluster but supports search-expansion as a run-time setting
+  * Defaults to a single cluster but supports search-expansion as a run-time setting
 * High-Throughput search 
   * Achieved by batching hundreds or thousands of queries into a single search
 * End-to-end CBIR search engine 
-	* Takes images as input and prints out text-based result files. 
-* Web-based API is openly available
+	* Takes images (text file with paths) as input and prints out text-based ranked results (with paths to result images).
+* Web-based API to visualize input and output is openly available
 	* [DeCP-Live](http://github.com/elgerpus/DeCP-Live/)
 
 ## Getting Started
