@@ -54,7 +54,7 @@ The other lines are absolute paths to the result images and the number of featur
 * [Gylfi Þór Guðmundsson](http://www.ru.is/starfsfolk/gylfig/)
 * [Laurent Amsaleg](http://people.rennes.inria.fr/Laurent.Amsaleg/)
 * [Björn Þór Jónsson](https://www.ru.is/faculty/bjorn/)
-* [MICHAEL J. FRANKLIN](https://cs.uchicago.edu/directory/michael-franklin/)
+* [Michael J. Franklin](https://cs.uchicago.edu/directory/michael-franklin/)
 
 ## Publications
 
