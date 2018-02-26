@@ -55,7 +55,7 @@ The other lines are absolute paths to the result images and the number of featur
 
 ## License
 
-This project is licensed under ...
+This project is licensed under the [MIT licence](licence.md)
 
 ## Acknowledgements
 
