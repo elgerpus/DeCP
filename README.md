@@ -1,4 +1,4 @@
-# DeCP
+# Distributed extended Cluster Pruning or DeCP 
 
 A high-throughput CBIR system for very large image collections
 
