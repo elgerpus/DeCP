@@ -24,7 +24,7 @@ All files have in common a header line that has parameters used colon separated.
 
 ### Query ("query".batch)
 
-The fields of the header line are "b k : m", where b is the search expansion factor; k is the size of the k-nearest neighborhood; and m is the number of result images to keep for each query image.
+The fields of the header line are "b : k : m", where b is the search expansion factor; k is the size of the k-nearest neighborhood; and m is the number of result images to keep for each query image.
 
 The other n-lines are the paths to the query images for this batch.
 
