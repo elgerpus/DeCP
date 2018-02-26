@@ -19,27 +19,26 @@ This version of DeCP does not have a built-in interface. We recomend using this 
 
 ## Syntax
 
-DeCP Live uses a custom syntax for the query, batch result and image result files.
+DeCP Live uses a custom syntax for its input and output text files (the batch-query, batch-result and image results).
+All files have in common a header line that has parameters used colon separated. All other lines of the files are paths to files, either images or other result files.  
 
-All files have in common a header line and other lines. The fields of the lines have a colon (:) as the field delimiter. 
+### Query ("query".batch)
 
-### Query
+The fields of the header line are "b:k:m", where b is the search expansion factor; k is the size of the k-nearest neighborhood; and m is the number of result images to keep for each query image.
 
-The fields of the header line are b, k, number of results and number of images.
+The other n-lines are the paths to the query images for this batch.
 
-The other lines are absolute paths to the query images for this batch.
+### Batch result (batch.res)
+For each batch a specific folder (directory) is created named after the "query".batch. In this folder a "batch.res" file is created that holds info on the batch search and links result files for each image in the batch. 
 
-### Batch result
+The fields of the header line in "batch.res" is "b:k:m:t", where b is the search expansion factor; k is the size of the k-nearest neighborhood used; m is the number of result images to keep for each query image; and t is the total time the search of this batch took in seconds. 
 
-The fields of the header line are the same as the query header line with the addition of the total time the batch took.
+The other n-lines are paths to the result-file for each query image in the batch.
 
-The other lines are absolute paths to the individual image query results for this batch.
+### Image result ( "imagename".res)
+For each query image in a search batch a result file is created in the search batch folder. The header of this file holds "p:f" where p is the path to the query image and f is the number of SIFT features extracted from it.
 
-### Image result
-
-The fields of the header line are the absolute path to the queried image and the number of features extracted from the image.
-
-The other lines are absolute paths to the result images and the number of features matched.
+The other m-lines are a ranked list of results. Each line is also colon separated lines:, the first value is the path to the result images and the second is the number of features that matched matched.
 
 ## Built With
 
