@@ -20,7 +20,6 @@ This version of DeCP does not have a built-in interface. We recomend using this 
 * VM info
 Login info for VM is; username: decp and password: decplive
 The VM is configured to nat ports to the host and thus you can access the DeCP-Live web-interface by opening your favorite browser and navigate to http://localhost:9080
-
 To use the search engine you will however need to log in and start it manually (see ~/README file in VM).
 
 
