@@ -15,9 +15,10 @@ A high-throughput CBIR system for very large image collections
 
 ## Getting Started
 
-This version of DeCP does not have a built-in interface. We recomend using this as a back-end for the web-based inteface called DeCP-Live available [here](https://github.com/elgerpus/DeCP-Live/) or to download the the ready-to-go virtual machine with both DeCP and DeCP-Live pre-installed, available [here](https://link.to.vm). 
+This version of DeCP does not have a built-in interface. We recomend using this as a back-end for the web-based inteface called DeCP-Live available [here](https://github.com/elgerpus/DeCP-Live/) or to download the the ready-to-go virtual machine with both DeCP and DeCP-Live pre-installed, available [here](https://drive.google.com/file/d/1Lqx7kxWMlpRCY1b9slrH0mt_pVT9-p4f/view?usp=sharing). 
 
 ## VM info: 
+ * Google drive [link to VM](https://drive.google.com/file/d/1Lqx7kxWMlpRCY1b9slrH0mt_pVT9-p4f/view?usp=sharing) 
  * Login info for VM is; username: decp and password: decplive
  * The VM is configured to nat ports to the host and thus you can access the DeCP-Live web-interface by opening your favorite browser and navigate to http://localhost:9080
  * To use the search engine you will however need to log in and start it manually (see ~/README file in VM).
