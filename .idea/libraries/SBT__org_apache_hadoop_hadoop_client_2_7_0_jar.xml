@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.hadoop:hadoop-client:2.7.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.apache.hadoop/hadoop-client/hadoop-client-2.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: net.iharder:base64:2.3.8:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/net.iharder/base64/base64-2.3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/net.iharder/base64/base64-2.3.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

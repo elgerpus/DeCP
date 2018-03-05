@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.directory.api:api-asn1-api:1.0.0-M20:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/org.apache.directory.api/api-asn1-api/api-asn1-api-1.0.0-M20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.apache.directory.api/api-asn1-api/api-asn1-api-1.0.0-M20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: commons-io:commons-io:2.4:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/commons-io/commons-io/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/commons-io/commons-io/commons-io-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

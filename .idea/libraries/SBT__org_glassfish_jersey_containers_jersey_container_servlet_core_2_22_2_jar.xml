@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.glassfish.jersey.containers:jersey-container-servlet-core:2.22.2:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.glassfish.jersey.containers/jersey-container-servlet-core/jersey-container-servlet-core-2.22.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.glassfish.jersey.containers/jersey-container-servlet-core/jersey-container-servlet-core-2.22.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

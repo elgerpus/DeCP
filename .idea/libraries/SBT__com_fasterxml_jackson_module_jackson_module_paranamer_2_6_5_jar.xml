@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.fasterxml.jackson.module:jackson-module-paranamer:2.6.5:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/com.fasterxml.jackson.module/jackson-module-paranamer/jackson-module-paranamer-2.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.fasterxml.jackson.module/jackson-module-paranamer/jackson-module-paranamer-2.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

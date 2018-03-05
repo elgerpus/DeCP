@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.ddogleg:ddogleg:0.6:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.ddogleg/ddogleg/ddogleg-0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.ddogleg/ddogleg/ddogleg-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

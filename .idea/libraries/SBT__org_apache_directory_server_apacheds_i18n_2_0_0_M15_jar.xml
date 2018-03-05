@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.directory.server:apacheds-i18n:2.0.0-M15:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/org.apache.directory.server/apacheds-i18n/apacheds-i18n-2.0.0-M15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.apache.directory.server/apacheds-i18n/apacheds-i18n-2.0.0-M15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

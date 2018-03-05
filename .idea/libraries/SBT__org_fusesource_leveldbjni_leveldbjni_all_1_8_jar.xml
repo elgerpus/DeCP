@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.fusesource.leveldbjni:leveldbjni-all:1.8:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/org.fusesource.leveldbjni/leveldbjni-all/leveldbjni-all-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.fusesource.leveldbjni/leveldbjni-all/leveldbjni-all-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

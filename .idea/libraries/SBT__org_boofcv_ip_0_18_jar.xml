@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.boofcv:ip:0.18:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.boofcv/ip/ip-0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.boofcv/ip/ip-0.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

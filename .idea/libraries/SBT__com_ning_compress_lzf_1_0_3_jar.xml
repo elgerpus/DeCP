@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.ning:compress-lzf:1.0.3:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/com.ning/compress-lzf/compress-lzf-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.ning/compress-lzf/compress-lzf-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

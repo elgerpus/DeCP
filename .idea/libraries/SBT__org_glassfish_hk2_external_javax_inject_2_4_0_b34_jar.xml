@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.glassfish.hk2.external:javax.inject:2.4.0-b34:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.glassfish.hk2.external/javax.inject/javax.inject-2.4.0-b34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.glassfish.hk2.external/javax.inject/javax.inject-2.4.0-b34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

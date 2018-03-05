@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.jpmml:pmml-schema:1.2.15:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.jpmml/pmml-schema/pmml-schema-1.2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.jpmml/pmml-schema/pmml-schema-1.2.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.sun.jersey:jersey-json:1.9:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/com.sun.jersey/jersey-json/jersey-json-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.sun.jersey/jersey-json/jersey-json-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

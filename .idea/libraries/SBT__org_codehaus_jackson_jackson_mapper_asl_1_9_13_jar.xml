@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.codehaus.jackson:jackson-mapper-asl:1.9.13:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.codehaus.jackson/jackson-mapper-asl/jackson-mapper-asl-1.9.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.codehaus.jackson/jackson-mapper-asl/jackson-mapper-asl-1.9.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

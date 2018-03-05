@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.xbean:xbean-asm5-shaded:4.4:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/org.apache.xbean/xbean-asm5-shaded/xbean-asm5-shaded-4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.apache.xbean/xbean-asm5-shaded/xbean-asm5-shaded-4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

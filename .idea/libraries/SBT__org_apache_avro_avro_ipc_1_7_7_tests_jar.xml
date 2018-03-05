@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.avro:avro-ipc:1.7.7:tests:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.apache.avro/avro-ipc/avro-ipc-1.7.7-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

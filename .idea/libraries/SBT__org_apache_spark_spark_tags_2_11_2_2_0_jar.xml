@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.spark:spark-tags_2.11:2.2.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.apache.spark/spark-tags_2.11/spark-tags_2.11-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.apache.spark/spark-tags_2.11/spark-tags_2.11-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

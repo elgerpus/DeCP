@@ -228,32 +228,41 @@ object DeCPImageScanning {
         } catch  {
           case e: Exception => {
             println("Exception caught trying to convert " + configFileds(0) + " to Int")
+            println("Incoorect serach expansion range selected, b set to 1")
             searchExpansion = 1
           }
         }
         if (searchExpansion < 1 || searchExpansion > 10 ) {
-          knnSize = 20
+          println("Search expansion capped between 1 - 10.")
+          println("Incoorect serach expansion range selected, b set to 1")
+          searchExpansion = 1
         }
         try {
           knnSize = configFileds(1).toInt
         } catch  {
           case e: Exception => {
             println("Exception caught trying to convert " + configFileds(1) + " to Int")
-            searchExpansion = 1
+            println("Incoorect k-NN size selected, k set to 20")
+            knnSize = 20
           }
         }
         if (knnSize < 5 ) {
+          println("k in k-NN capped to >= 5")
+          println("Incoorect k-NN size selected, k set to 20")
           knnSize = 20
         }
         try {
           maxResults = configFileds(2).toInt
         } catch  {
-          case e: Exception => {println("Exception caught trying to convert " + configFileds(2) + " to Int")
+          case e: Exception => {
+            println("Exception caught trying to convert " + configFileds(2) + " to Int")
+            println("Incoorect number of search results selected, search results per image set to 100")
             searchExpansion = 100
           }
         }
         if ( maxResults < 10 || maxResults > 1000 ) {
-          println("Size of maxResult out of bounds (<10 or > 1000)")
+          println("Search expansion capped between 10 - 1000.")
+          println("Incoorect serach expansion range selected, search results set to 100")
           maxResults = 100
         }
         var queryFiles : List[File] = Nil

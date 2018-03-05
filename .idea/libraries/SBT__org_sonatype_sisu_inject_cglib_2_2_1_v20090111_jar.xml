@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.sonatype.sisu.inject:cglib:2.2.1-v20090111:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.sonatype.sisu.inject/cglib/cglib-2.2.1-v20090111.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.sonatype.sisu.inject/cglib/cglib-2.2.1-v20090111-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

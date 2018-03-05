@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: net.razorvine:pyrolite:4.13:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/net.razorvine/pyrolite/pyrolite-4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/net.razorvine/pyrolite/pyrolite-4.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

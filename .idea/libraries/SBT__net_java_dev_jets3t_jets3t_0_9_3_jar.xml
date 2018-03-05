@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: net.java.dev.jets3t:jets3t:0.9.3:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/net.java.dev.jets3t/jets3t/jets3t-0.9.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/net.java.dev.jets3t/jets3t/jets3t-0.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

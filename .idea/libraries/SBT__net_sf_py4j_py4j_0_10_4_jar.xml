@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: net.sf.py4j:py4j:0.10.4:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/net.sf.py4j/py4j/py4j-0.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/net.sf.py4j/py4j/py4j-0.10.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

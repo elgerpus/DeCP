@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.commons:commons-math3:3.4.1:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.apache.commons/commons-math3/commons-math3-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.apache.commons/commons-math3/commons-math3-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

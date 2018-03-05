@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: commons-configuration:commons-configuration:1.6:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/commons-configuration/commons-configuration/commons-configuration-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/commons-configuration/commons-configuration/commons-configuration-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

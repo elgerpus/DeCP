@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.github.rwl:jtransforms:2.4.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.github.rwl/jtransforms/jtransforms-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.github.rwl/jtransforms/jtransforms-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

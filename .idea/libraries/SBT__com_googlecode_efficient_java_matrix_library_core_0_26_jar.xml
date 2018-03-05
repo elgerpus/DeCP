@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.googlecode.efficient-java-matrix-library:core:0.26:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.googlecode.efficient-java-matrix-library/core/core-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.googlecode.efficient-java-matrix-library/core/core-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

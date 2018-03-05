@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.georegression:georegression:0.7:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.georegression/georegression/georegression-0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.georegression/georegression/georegression-0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

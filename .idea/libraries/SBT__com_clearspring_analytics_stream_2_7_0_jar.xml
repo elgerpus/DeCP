@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.clearspring.analytics:stream:2.7.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.clearspring.analytics/stream/stream-2.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.clearspring.analytics/stream/stream-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

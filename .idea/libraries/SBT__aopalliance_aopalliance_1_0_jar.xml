@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: aopalliance:aopalliance:1.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/aopalliance/aopalliance/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/aopalliance/aopalliance/aopalliance-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

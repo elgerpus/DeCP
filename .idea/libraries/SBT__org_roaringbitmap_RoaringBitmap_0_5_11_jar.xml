@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.roaringbitmap:RoaringBitmap:0.5.11:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/org.roaringbitmap/RoaringBitmap/RoaringBitmap-0.5.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.roaringbitmap/RoaringBitmap/RoaringBitmap-0.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

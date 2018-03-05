@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.thoughtworks.xstream:xstream:1.4.7:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.thoughtworks.xstream/xstream/xstream-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.thoughtworks.xstream/xstream/xstream-1.4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

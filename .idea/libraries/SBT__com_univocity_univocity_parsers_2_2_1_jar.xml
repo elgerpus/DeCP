@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.univocity:univocity-parsers:2.2.1:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.univocity/univocity-parsers/univocity-parsers-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.univocity/univocity-parsers/univocity-parsers-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

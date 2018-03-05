@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.commons:commons-lang3:3.5:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.apache.commons/commons-lang3/commons-lang3-3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.apache.commons/commons-lang3/commons-lang3-3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

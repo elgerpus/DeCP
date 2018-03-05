@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: xmlenc:xmlenc:0.52:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/xmlenc/xmlenc/xmlenc-0.52.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
