@@ -32,7 +32,7 @@ The virtual machine is installed into Oracle's [VirtualBox](https://www.virtualb
 
 ## Syntax
 
-DeCP Live uses a custom syntax for its input and output text files (the batch-query, batch-result and image results).
+The DeCP engine uses a custom syntax for its input and output text files (the batch-query, batch-result and image results).
 All files have in common a header line that has parameters used colon separated. All other lines of the files are paths to files, either images or other result files.  
 
 * Query ("query".batch) 
