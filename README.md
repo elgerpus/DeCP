@@ -10,17 +10,15 @@ A high-throughput CBIR system for very large image collections
   * Achieved by batching hundreds or thousands of queries into a single search
 * End-to-end CBIR search engine 
 	* Takes images (text file with paths) as input and prints out text-based ranked results (with paths to result images).
-* Web-based API 
-	* [DeCP-Live](http://github.com/elgerpus/DeCP-Live/) provides a web-interface where a search batch can be created and the results browsed an visualized.\
-		  ![DeCP-Live submitting a batch query](decplive_submitbatch2.png) 
-		  ![DeCP-Live browsing all batch results](decplive_batchresultlist2.png)
- 		  ![DeCP-Live results for a single batch](decplive_resultbatch2.png) 
-		  ![DeCP-Live results for a single query image](decplive_resultqueryimage2.png)
-
 
 ## Getting Started
 
 This version of DeCP does not have a built-in interface. We recomend using this as a back-end for the web-based inteface called DeCP-Live available [here](https://github.com/elgerpus/DeCP-Live/) or to download the the ready-to-go virtual machine with both DeCP and DeCP-Live pre-installed, available [here](https://drive.google.com/file/d/1Lqx7kxWMlpRCY1b9slrH0mt_pVT9-p4f/view?usp=sharing). 
+* [DeCP-Live](http://github.com/elgerpus/DeCP-Live/) provides a web-interface where a search batch can be created and the results browsed an visualized.\
+		  ![DeCP-Live submitting a batch query](decplive_submitbatch2.png) 
+		  ![DeCP-Live browsing all batch results](decplive_batchresultlist2.png)
+ 		  ![DeCP-Live results for a single batch](decplive_resultbatch2.png) 
+		  ![DeCP-Live results for a single query image](decplive_resultqueryimage2.png)
 
 
 ## VM info: 
