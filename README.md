@@ -38,7 +38,7 @@ All files have in common a header line that represents colon separated parameter
 * Query ("query".batch) 
   * The fields of the header line are "b : k : m", where b is the search expansion factor; k is the size of the k-nearest neighborhood; and m is the number of result images to keep for each query image.
   * The other n-lines are the paths to the query images for this batch.\
-   ![Query.batch configuration](img/query.batch.png)
+   ![Query batch configuration](img/query.batch.png)
   
 * Batch result (batch.res)
   * For each batch a specific folder (directory) is created named after the "query".batch. In this folder a "batch.res" file is created that holds info on the batch search and links result files for each image in the batch. 
