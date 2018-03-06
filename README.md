@@ -10,12 +10,15 @@ A high-throughput CBIR system for very large image collections
   * Achieved by batching hundreds or thousands of queries into a single search
 * End-to-end CBIR search engine 
 	* Takes images (text file with paths) as input and prints out text-based ranked results (with paths to result images).
-* Web-based API to visualize input and output is openly available
-	* [DeCP-Live](http://github.com/elgerpus/DeCP-Live/)
 
 ## Getting Started
 
 This version of DeCP does not have a built-in interface. We recomend using this as a back-end for the web-based inteface called DeCP-Live available [here](https://github.com/elgerpus/DeCP-Live/) or to download the the ready-to-go virtual machine with both DeCP and DeCP-Live pre-installed, available [here](https://drive.google.com/file/d/1Lqx7kxWMlpRCY1b9slrH0mt_pVT9-p4f/view?usp=sharing). 
+* [DeCP-Live](http://github.com/elgerpus/DeCP-Live/) provides a web-interface where a search batch can be created and the results browsed an visualized.\
+		  ![DeCP-Live submitting a batch query](decplive_submitbatch2.png) 
+		  ![DeCP-Live browsing all batch results](decplive_batchresultlist2.png)
+ 		  ![DeCP-Live results for a single batch](decplive_resultbatch2.png) 
+		  ![DeCP-Live results for a single query image](decplive_resultqueryimage2.png)
 
 
 ## VM info: 
@@ -29,7 +32,7 @@ The virtual machine is installed into Oracle's [VirtualBox](https://www.virtualb
 
 ## Syntax
 
-DeCP Live uses a custom syntax for its input and output text files (the batch-query, batch-result and image results).
+The DeCP engine uses a custom syntax for its input and output text files (the batch-query, batch-result and image results).
 All files have in common a header line that has parameters used colon separated. All other lines of the files are paths to files, either images or other result files.  
 
 * Query ("query".batch) 
