@@ -30,7 +30,7 @@ The virtual machine is installed into Oracle's [VirtualBox](https://www.virtualb
  * To use the search engine you will however need to log in and start it manually (see ~/README file in VM).
 
 
-## Syntax
+## Syntax of input and output text-files
 
 The DeCP engine uses a custom syntax for its input and output text files (the batch-query, batch-result and image results).
 All files have in common a header line that represents colon separated parameters. All other lines of the files are paths to files, either images or other result files.  
