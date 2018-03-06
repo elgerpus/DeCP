@@ -38,16 +38,18 @@ All files have in common a header line that represents colon separated parameter
 * Query ("query".batch) 
   * The fields of the header line are "b : k : m", where b is the search expansion factor; k is the size of the k-nearest neighborhood; and m is the number of result images to keep for each query image.
   * The other n-lines are the paths to the query images for this batch.\
-   ![Query batch configuration](img/query.batch.png)
+   ![Query batch configuration](img/query_batch.png)
   
 * Batch result (batch.res)
   * For each batch a specific folder (directory) is created named after the "query".batch. In this folder a "batch.res" file is created that holds info on the batch search and links result files for each image in the batch. 
   * The fields of the header line in "batch.res" is "b : k : m : t", where b is the search expansion factor; k is the size of the k-nearest neighborhood used; m is the number of result images to keep for each query image; and t is the total time the search of this batch took in seconds. 
-  * The other n-lines are paths to the result-file for each query image in the batch.
+  * The other n-lines are paths to the result-file for each query image in the batch.\
+  ![Query batch results](img/batch_res.png)
 
 * Image result ( "imagename".res)
   * For each query image in a search batch a result file is created in the search batch folder. The header of this file holds "p:f" where p is the path to the query image and f is the number of SIFT features extracted from it.
-  * The other m-lines are a ranked list of results. Each line is also colon separated lines:, the first value is the path to the result images and the second is the number of features that matched matched.
+  * The other m-lines are a ranked list of results. Each line is also colon separated lines:, the first value is the path to the result images and the second is the number of features that matched matched.\
+  ![Query image result](img/queryimage_res.png)
 
 
 ## Built With
