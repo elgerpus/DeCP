@@ -46,7 +46,7 @@ All files have in common a header line that represents colon separated parameter
   * The other n-lines are paths to the result-file for each query image in the batch.\
   ![Query batch results](img/batch_res.png)
 
-* Image result ( "imagename".res)
+* Image result ("imagename".res)
   * For each query image in a search batch a result file is created in the search batch folder. The header of this file holds "p:f" where p is the path to the query image and f is the number of SIFT features extracted from it.
   * The other m-lines are a ranked list of results. Each line is also colon separated lines:, the first value is the path to the result images and the second is the number of features that matched matched.\
   ![Query image result](img/queryimage_res.png)
