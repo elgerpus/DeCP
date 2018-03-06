@@ -11,8 +11,8 @@ A high-throughput CBIR system for very large image collections
 * End-to-end CBIR search engine 
 	* Takes images (text file with paths) as input and prints out text-based ranked results (with paths to result images).
 * Web-based API to visualize input and output is openly available
-	* [DeCP-Live](http://github.com/elgerpus/DeCP-Live/)
-		* DeCP provides a web-interface where a search batch can be created and the results browsed an visualized.
+	* [DeCP-Live](http://github.com/elgerpus/DeCP-Live/) provides a web-interface where a search batch can be created and the results browsed an visualized.
+		* 
 		
 		  ![DeCP-Live submitting a batch query](decplive_submitbatch2.png) 
 		  ![DeCP-Live browsing all batch results](decplive_batchresultlist2.png)
