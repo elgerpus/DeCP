@@ -15,10 +15,10 @@ A high-throughput CBIR system for very large image collections
 
 This version of DeCP does not have a built-in interface. We recomend using this as a back-end for the web-based inteface called DeCP-Live available [here](https://github.com/elgerpus/DeCP-Live/) or to download the the ready-to-go virtual machine with both DeCP and DeCP-Live pre-installed, available [here](https://drive.google.com/file/d/1Lqx7kxWMlpRCY1b9slrH0mt_pVT9-p4f/view?usp=sharing). 
 * [DeCP-Live](http://github.com/elgerpus/DeCP-Live/) provides a web-interface where a search batch can be created and the results browsed an visualized.\
-		  ![DeCP-Live submitting a batch query](decplive_submitbatch2.png) 
-		  ![DeCP-Live browsing all batch results](decplive_batchresultlist2.png)
- 		  ![DeCP-Live results for a single batch](decplive_resultbatch2.png) 
-		  ![DeCP-Live results for a single query image](decplive_resultqueryimage2.png)
+		  ![DeCP-Live submitting a batch query](img/decplive_submitbatch2.png) 
+		  ![DeCP-Live browsing all batch results](img/decplive_batchresultlist2.png)
+ 		  ![DeCP-Live results for a single batch](img/decplive_resultbatch2.png) 
+		  ![DeCP-Live results for a single query image](img/decplive_resultqueryimage2.png)
 
 
 ## VM info: 
@@ -33,12 +33,13 @@ The virtual machine is installed into Oracle's [VirtualBox](https://www.virtualb
 ## Syntax
 
 The DeCP engine uses a custom syntax for its input and output text files (the batch-query, batch-result and image results).
-All files have in common a header line that has parameters used colon separated. All other lines of the files are paths to files, either images or other result files.  
+All files have in common a header line that represents colon separated parameters. All other lines of the files are paths to files, either images or other result files.  
 
 * Query ("query".batch) 
   * The fields of the header line are "b : k : m", where b is the search expansion factor; k is the size of the k-nearest neighborhood; and m is the number of result images to keep for each query image.
-  * The other n-lines are the paths to the query images for this batch.
-
+  * The other n-lines are the paths to the query images for this batch.\
+   ![Query.batch configuration](img/query.batch.png)
+  
 * Batch result (batch.res)
   * For each batch a specific folder (directory) is created named after the "query".batch. In this folder a "batch.res" file is created that holds info on the batch search and links result files for each image in the batch. 
   * The fields of the header line in "batch.res" is "b : k : m : t", where b is the search expansion factor; k is the size of the k-nearest neighborhood used; m is the number of result images to keep for each query image; and t is the total time the search of this batch took in seconds. 
@@ -47,6 +48,7 @@ All files have in common a header line that has parameters used colon separated.
 * Image result ( "imagename".res)
   * For each query image in a search batch a result file is created in the search batch folder. The header of this file holds "p:f" where p is the path to the query image and f is the number of SIFT features extracted from it.
   * The other m-lines are a ranked list of results. Each line is also colon separated lines:, the first value is the path to the result images and the second is the number of features that matched matched.
+
 
 ## Built With
 
