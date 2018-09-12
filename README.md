@@ -69,8 +69,8 @@ All files have in common a header line that represents colon separated parameter
 
 ## Publications
 
-* [Towards Engineering a Web-Scale Multimedia Service: A Case Study Using Spark](https://hal.inria.fr/hal-01416089/document) published in the proceedings of the 8th ACM conference on Multimedia Systems (MMSys17)
-* [Prototyping a Web-Scale Multimedia Retrieval Service Using Spark](https://dl.acm.org/citation.cfm?id=3209662) published in ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Volume 14, Issue 3s, Article No. 65, 2018.
+* [Towards Engineering a Web-Scale Multimedia Service: A Case Study Using Spark,](https://hal.inria.fr/hal-01416089/document) published in the proceedings of the 8th ACM conference on Multimedia Systems (MMSys), June, 2017. 
+* [Prototyping a Web-Scale Multimedia Retrieval Service Using Spark,](https://dl.acm.org/citation.cfm?id=3209662) published in ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Volume 14, Issue 3s, Article No. 65, August, 2018.
 
 ## License
 
