@@ -1,0 +1,19 @@
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# jvm crash log
+hs_err_pid*
+
+# idea project file
+.idea/workspace.xml
+
+# mac
+.DS_Store
+
+.idea.vmoptions
+.idea
+out/
+~/.m2/*
